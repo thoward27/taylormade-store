@@ -1,2 +1,6 @@
 [template.environment]
-NEXT_PUBLIC_MEDUSA_BACKEND_URL="URL of your Medusa Server"
+NEXT_PUBLIC_MEDUSA_BACKEND_URL="https://taylormade-backend.tomhoward.codes"
+NEXT_PUBLIC_SEARCH_ENDPOINT="https://taylormade-meilisearch.tomhoward.codes"
+NEXT_PUBLIC_SEARCH_API_KEY="99f906fb48e1690a250476c57eb2cf87b5d3bca5af4612ee4edad2ba7ebe715f"
+NEXT_PUBLIC_SEARCH_INDEX_NAME="products"
+NEXT_PUBLIC_STRIPE_KEY="pk_live_51KudZCB6NRYn9am5B24AiivvwP1CQ13UIjFLl5uhMP1xW69i7ikQrELoCgLoO3POxKGWJTVYXX8Hjiu1YdgfbIyI00bItRQRhg"
